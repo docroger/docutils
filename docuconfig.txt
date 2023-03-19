@@ -1,0 +1,49 @@
+;mode d'emploi
+;pour les tabs : nom du tab
+;pour les menus : nom du menu,executable,titre executable
+;pour les boutons : numero du tab, nom du bouton, executable, titre executable, texte d'infos
+;les rubriques entre crochets indispensables
+[tabs]
+Utils
+Utils 2
+[endtabs]
+[menus]
+;Fractales,fractales.exe,fractales
+[endmenus]
+[buts]
+1,µCDPlayer,µcdplay.exe,µcdplay,Lecteur CD
+1,Biorythme,biorythm.exe,biorythm v1.0,Calcul du biorytme
+1,Tracer,tracer.exe,tracer,Traceur de courbes
+1,Calculette,calculette.exe,calc,Calculette
+1,BaseConv,baseconv.exe,convertisseur bases,Convertisseur de bases
+1,Calperp,calperp.exe,calperp,Calendrier perpétuel
+1,Chrono,chrono.exe,chrono,Chronographe multithread
+1,Horloge,horloge.exe,horloge,Horloge analogique et numérique
+1,NTP Time,ntptime.exe,ntp time,Synchronisation de l'horloge avec horloge atomique
+1,Codes postaux,codepost.exe,codes postaux,Liste des codes postaux
+1,Traducteur,traducteur.exe,traducteur,Traducteur via google translate
+1,Colorpik,colorpik.exe,colorpik,Affiche la couleur pointée à l'écran
+1,Odomouse,odomouse.exe,odomouse,Totalisateur distance parcourue par la souris
+1,Mesurer,mesurer.exe,mesurer,Outil de mesure sur écran
+1,Veilleur,veilleur.exe,veilleur,Empêche la mise en veille
+1,Defiltexte,defiltexte.exe,defiltexte,Panneau texte défilant
+1,Loupe,loupe.exe,loupe,Loupe d'écran
+1,Winpik,winpik.exe,winpik,Capture d'écran
+;1,Luhn,luhn.exe,check luhn,Vérification de validité
+2,Applocker 2,applocker2.exe,applocker 2,Protection d'applications
+2,Hashtool,hashtool.exe,hash tool,Calcul CRC
+2,Keybase,keybase.exe,keybase,Base de donnée sécurisée login/password
+2,Myapps,myapps.exe,myapps,Lanceur d'application arborescent
+2,Post-It-Board,postitboard.exe,post-it-board,Tableau de post-it aide mémoire
+2,MultiClipboard,multiclipboard.exe,multiclipboard,Clipboard multiple
+2,PWGen,pwgen.exe,pwgen,Générateur de mot de passe
+2,HumanPW,humanpw.exe,humanpw,Générateur de mot de passe basé sur dictionnaire
+2,QRCodeGen,qrcodegen.exe,qrcode gen,Générateur de QR code (code barre 2D)
+2,Red,red.exe,red,Editeur enrichi
+2,7zBackup,7zbackup.exe,7zbackup,Archive 7z
+2,SF,sf.exe,search files,Recherche de fichiers et suppression
+2,Superdel,superdel.exe,superdel,Effacement sécurisé
+2,Winclean,winclean.exe,winclean,Nettoyage de windows
+2,Wtools,wtools.exe,wtools,Accès aux fonctions cachées de windows
+2,Autostart,autostart.exe,autostart,Démarrage auto d'une application
+[endbuts]
