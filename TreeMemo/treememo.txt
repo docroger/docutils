@@ -1,0 +1,51 @@
+TreeMemo 1.1.2
+by Docno - 2023
+
+Windows 10&11 32&64 bits
+DonationWare
+
+Organiseur de notes arborescent.
+Les notes sont du texte enrichi avec hyperliens (web/mail).
+Sécurisé par cryptage AES.
+
+La version démo ne permet pas le cryptage.
+
+Base de données SQLite et possibilité d'export des données (format texte).
+
+Utilisation 
+============
+
+A gauche l'arbre des fiches.
+A droite la note associée a une fiche (zone en jaune).
+La barre médiane permet de redimensionner les zones.
+
+Un menu contextuel (accessible via bouton droit de la souris) est associé a chaque zone.
+
+Pour commencer créer une base de donnée.
+Utiliser la toolbar et la 1er icone.
+Choisir le nom de la base.
+Puis un mot de passe : si aucun mot de passe n'est saisi, la base ne sera pas cryptée.
+
+Les icones de la toolbar ont des bulles d'aide.
+ - Ouvrir : permet d'utiliser une autre base de donnée.
+ - Fermer : cloture une base de données.
+
+Créer des fiches
+================
+Menu contextuel de l'arbre (bouton droit souris).
+ - Nouvelle fiche : crée une fiche.
+	Cliquer sur la fiche nouvellement crée permet de modifier son nom ou menu contextuel (Editer Titre).
+	Double-clic sur une fiche affiche la note associée ou menu contextuel (voir note).
+
+ - Insérer une fiche : au préalable sélectionner une fiche pour créer une fiche-enfant.
+ - Supprimer une fiche : suppression de la fiche et de la note associée.
+
+Le drag&drop permet d'organiser les fiches.
+Déplacer une fiche vers une autre avec shift permet de faire une sous fiche. 
+
+Les notes
+=========
+Double clic dans la zone note (ou menu contextuel Editer Note) permet d'éditer la note.
+Un éditeur complet apparait.
+Pour enregistrer les modifications : menu Fichier et VALIDER.
+Pour sortir sans enregistrer : menu Fichier puis ANNULER.
