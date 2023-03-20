@@ -1,0 +1,33 @@
+Agenda 1.1
+==========
+Pour Windows 10&11 x86/x64
+DonationWare
+Docno - 2023
+
+Utilisation
+===========
+Pour la version DEMO les créneaux 0h00-7h00 et 17h00-24h00 ne sont pas éditables.
+
+Agenda journalier, par quart d'heure.
+Hyper compact et volontairement simple.
+1 ligne par tranche horaire.
+Données sauvegardées au format JSON.
+
+Sélectionner une date dans le calendrier.
+La date en cours est affichée sur la première ligne du tableau.
+Sélectionner une tranche horaire et double clic.
+Saisir le texte.
+VALIDER avec ENTREE.
+L'onglet Note permet de saisir une note relative au jour sélectionné.
+La navigation au clavier est possible dans le tableau.
+La sauvegarde est automatique.
+
+Le première case du tableau à gauche : #:x indique si des évènements sont enregistrés et leur nombre.
+La ligne de boutons en bas du tableau permet de naviguer dans les dates.
+La fenêtre est redimensionnable et le tableau ou la calendrier peuvent être redimlensionnés.
+Les jours fériés sont indiqués en bas dans la barre de status.
+
+Le menu ALLER : permet de sélectionner directement une date.
+Le menu Chercher : permet de rechercher un évènement dans la base de données.
+
+====================
