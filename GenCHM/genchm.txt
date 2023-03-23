@@ -1,0 +1,36 @@
+GenCHM 1.1 
+======
+
+by Docno
+2023
+Windows 10/11 32/64
+DonationWARE.
+
+Générateur de fichier CHM = html compilé.
+Permet de faire des aides ou documentations avec page web et image intégrés dans un même fichier.
+
+Utilisation 
+===========
+
+Vérifier le chemin du dossier du compilateur d'aide (hhc.exe) et corriger si besoin.
+Préparer les pages web (.htm ou .html).
+Ne prends pas les fichier htm encodés en unicode.
+Renseigner le champs Fichier CHM avec le titre du document à créer : cliquer sur le bouton ...
+
+Glisser/déposer les pages dans la liste Pages ou menu contextuel ajouter des pages.
+Les organiser (ordre) avec les souris (glisser/déplacer) et menu contextuel pour changer 
+le titre ou supprimer la page.
+
+Enregistrer le projet : crée un fichier proj.
+On obtient un fichier xxxx.chm et xxxx.proj
+ - menu enregistrer sous : permet de changer le titre du fichier chm.
+ - enregistrer : sauve au même nom que le fichier CHM
+
+Faire Compiler puis Voir pour afficher le résultat.
+
+Liste des fichiers nécessaires :
+ - genchm.exe
+ - hhc.exe
+ - hh.exe
+ - hha.dll
+
